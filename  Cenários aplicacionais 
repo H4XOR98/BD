@@ -1,0 +1,29 @@
+Médico:
+	.CRUD Médico;
+	.Autenticar-se;
+	.Consultar a agenda;
+	.Consultar teste clínico;
+	.Editar teste clínico;
+	.Realizar testes clínicos;
+
+Atleta: 
+	.CRUD Atleta;
+	.Autenticar-se;
+	.Consultar agenda;
+	.Consultar teste clínico;
+	.Agendar testes clínicos;
+	.Cancelar agendamento de testes clínicos;
+	.Editar agendamentos de testes clínicos;
+
+Administrador:
+	.CRUD Administrador;
+	.Autenticar-se;
+	.CRUD Modalidade;
+	.CRUD Categoria;
+	.CRUD Especialidade;
+	.Consultar agenda;
+	.CRUD Clube;
+
+1. Dizer o porquê de se realizar este trabalho prático.
+
+2. 
